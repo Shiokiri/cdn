@@ -470,13 +470,6 @@ const ap = new APlayer({
             url: 'https://music.163.com/song/media/outer/url?id=477936261.mp3',
             cover: 'https://p2.music.126.net/Bt3dFUR9xWCd8wJlmrsgXg==/3429376768564696.jpg',
             lrc: 'https://cdn.jsdelivr.net/gh/shiokiri/cdn/aplayer/lrc/sysr.lrc'
-        },
-        {
-            name: '普通DISCO',
-            artist: '洛天依,言和 | ilem',
-            url: 'https://music.163.com/song/media/outer/url?id=31140522.mp3',
-            cover: 'https://p1.music.126.net/FwrkRhTBoI9TNj3BkUy2Hw==/1364493965811296.jpg',
-            lrc: 'https://cdn.jsdelivr.net/gh/shiokiri/cdn/aplayer/lrc/ptdisco.lrc'
         }
     ]
 });
